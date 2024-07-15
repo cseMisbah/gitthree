@@ -1,2 +1,6 @@
 two.txt
+<<<<<<< HEAD
 How are you doing?
+=======
+2
+>>>>>>> main
